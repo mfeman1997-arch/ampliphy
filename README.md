@@ -4,7 +4,7 @@ Ampliphy helps small brands plan a month of Facebook and Instagram posts from th
 
 This repository is the coded version of my Figma design for Lyon INC: 14 screens, from the trial invite to the "who to talk to next" view, built as a working React app.
 
-**Live demo:** _link added after the first deploy_
+**Live demo:** https://mfeman1997-arch.github.io/ampliphy/
 
 ## Designed and built by
 
